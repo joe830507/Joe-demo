@@ -1,4 +1,4 @@
-package com.lin.demo;
+package com.lin.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
