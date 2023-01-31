@@ -23,3 +23,8 @@
 hs_err_pid*
 replay_pid*
 .vscode/settings.json
+.classpath
+.factorypath
+.project
+.settings/
+target/
